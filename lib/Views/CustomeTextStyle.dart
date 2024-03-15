@@ -42,5 +42,5 @@ TextStyle settings() {
 }
 
 TextStyle settings_normal(Color color) {
-  return TextStyle(color: color, fontSize: 18, fontWeight: FontWeight.normal);
+  return TextStyle(color: color, fontSize: 18, fontWeight: FontWeight.normal,);
 }

@@ -8,7 +8,6 @@ class ExitConfirmationController extends GetxController {
     final result = await Get.dialog(
       AlertDialog(
         title: Text('Are you sure you want to exit?'),
-        content: Text('Unsaved changes may be lost.'),
         actions: [
           TextButton(
             onPressed: () {

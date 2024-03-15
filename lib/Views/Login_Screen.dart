@@ -60,6 +60,11 @@ class LoginScreen extends StatelessWidget {
                       saveUserData(
                           gUser.email, gUser.photoURL, gUser.displayName);
                       Get.snackbar('Success', 'Login with ${gUser.displayName}',
+                          backgroundColor: Colors.green,
+                          icon: Icon(
+                            Icons.check_circle_rounded,
+                            size: 30,
+                          ),
                           snackPosition: SnackPosition.TOP);
                       Get.off(() => (BottomAppBarView()));
                     }

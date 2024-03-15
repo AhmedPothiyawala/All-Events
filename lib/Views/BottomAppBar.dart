@@ -25,7 +25,8 @@ class BottomAppBarView extends GetView<BottomNavigationController> {
             body: Obx(() => pages[controller.selectedIndex.value]),
             bottomNavigationBar: Obx(
               () => BottomNavigationBar(
-                selectedItemColor: EventColors.kPrimary_amount_color,
+                backgroundColor: EventColors.kPrimaryLightColor,
+                selectedItemColor: EventColors.kButtonColor,
                 unselectedItemColor: EventColors.kPrimaryDarkColor,
                 selectedFontSize: 15,
                 selectedLabelStyle: const TextStyle(

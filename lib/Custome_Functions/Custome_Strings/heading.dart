@@ -8,7 +8,9 @@ class CustomHeading {
   static const String datetime = 'Date & Time';
   static const String sort = 'Sort';
   static const String signout = 'Sign Out';
+  static const String warning = 'Warning';
   static const String dark = 'Dark Mood';
+
   static const String notifications = 'Notifications';
   static const String editaccount = 'Edit Account';
   static const String changepassword = 'Change Password';

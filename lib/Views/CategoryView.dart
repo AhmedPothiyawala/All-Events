@@ -115,7 +115,7 @@ class CategoryView extends StatelessWidget {
                     color: Colors.transparent, // Background color of tabs
                   ),
                   unselectedLabelColor: EventColors.kPrimaryColor,
-                  labelColor: Colors.amber,
+                  labelColor: EventColors.kButtonColor,
                 ),
               ),
               Container(
