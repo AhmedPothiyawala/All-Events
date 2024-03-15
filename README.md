@@ -1,16 +1,13 @@
-# all_events
+# All Events
+Mobile application for All Events Category.
 
-A new Flutter project.
+## Version : 1.0.0 Date : 15-03-2024
+------------------------------------------
 
-## Getting Started
+-  Log in using Google: You can sign in to the app with your Google account.
+-  View events through API: Events are displayed in the app, which are fetched using an external service (API).
+-  Tap on events to view more: If you want more details about an event, just tap on it. This will open a detailed view within the app itself.
+-  Contact options open outside the app: If you want to call, email, or send a WhatsApp message, these actions will take you out of the app to the respective external applications.
+-  Log out feature: You can easily sign out of the app whenever you want.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
