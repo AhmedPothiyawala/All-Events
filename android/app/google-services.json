@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205828389331",
+    "firebase_url": "https://signindemo-fe533-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "signindemo-fe533",
+    "storage_bucket": "signindemo-fe533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205828389331:android:c59efbda307fb1694b5726",
+        "android_client_info": {
+          "package_name": "com.allevents.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205828389331-hdvbhjj239f6bv98d4l6ae9hk6qdrodt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allevents.com",
+            "certificate_hash": "6263d0bf4727376ab137e642549e9f67414ef37d"
+          }
+        },
+        {
+          "client_id": "205828389331-8333l8hq8bdnlmbllkbkesgeil06l168.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfDD6tFkbb-lqoMCtpSeW3jf7_-j488I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205828389331-8333l8hq8bdnlmbllkbkesgeil06l168.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
